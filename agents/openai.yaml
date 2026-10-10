@@ -1,0 +1,4 @@
+interface:
+  display_name: "关键词科普视频脚本"
+  short_description: "从单个或一批关键词完成五平台调研、十个开头方案、口播稿和飞书交付"
+  default_prompt: "使用 $keyword-video-script 为这批关键词调研并设计科普短视频，先交付调研和每个关键词的 10 个开头，等我选定后写口播稿。"
